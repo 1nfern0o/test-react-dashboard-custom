@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-react-dashboard-custom/static/css/main.949bb3cf.css",
+    "main.js": "/test-react-dashboard-custom/static/js/main.af9f900a.js",
+    "static/media/avatar.svg": "/test-react-dashboard-custom/static/media/avatar.a137c6683126b4c950b608e8ad4fb385.svg",
+    "static/media/icon_promote.svg": "/test-react-dashboard-custom/static/media/icon_promote.5230029f4e637c534c143c4d95cf421f.svg",
+    "static/media/icon_income.svg": "/test-react-dashboard-custom/static/media/icon_income.25d824b57e5c5a753432296807e7285d.svg",
+    "static/media/icon_product.svg": "/test-react-dashboard-custom/static/media/icon_product.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
+    "static/media/icon_help.svg": "/test-react-dashboard-custom/static/media/icon_help.5d23912a887f9edc9d9f8d957ec960e6.svg",
+    "static/media/icon_customer.svg": "/test-react-dashboard-custom/static/media/icon_customer.27617add0f452c671fec310dc74fcb18.svg",
+    "static/media/logo.svg": "/test-react-dashboard-custom/static/media/logo.fe984a6cdb2ef8c5a0b69a7ef20deea3.svg",
+    "static/media/icon_dashboard.svg": "/test-react-dashboard-custom/static/media/icon_dashboard.153a0eb179be0548729792a4f21fc52e.svg",
+    "index.html": "/test-react-dashboard-custom/index.html",
+    "static/media/icon_search.svg": "/test-react-dashboard-custom/static/media/icon_search.d555a35800fec6f7c192.svg",
+    "main.949bb3cf.css.map": "/test-react-dashboard-custom/static/css/main.949bb3cf.css.map",
+    "main.af9f900a.js.map": "/test-react-dashboard-custom/static/js/main.af9f900a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.949bb3cf.css",
+    "static/js/main.af9f900a.js"
+  ]
+}
